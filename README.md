@@ -1,1 +1,1 @@
-# ddp-server
+# DDP server
