@@ -45,5 +45,8 @@
     "typescript": "^5.1.6",
     "unbuild": "^1.2.1",
     "vitest": "^0.34.1"
+  },
+  "dependencies": {
+    "@kozderka/railway": "^0.0.0-alpha.1"
   }
 }
